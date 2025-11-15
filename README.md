@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ passionate to become a Software Engineer, Specialize in Cyber Security<br>📚 I'm currently learning Cryptography<br>🎯 Goals: want to build a tech company<br>🎲 Fun fact: I like shrimp so much</p>
+<p align="left">✨ passionate to become a Software Engineer, Specialize in Cyber Security<br>📚 I'm currently learning Cryptography<br>🎯 Goals: want to build a tech company<br>🎲 Fun fact: I like shrimp</p>
 
 ###
 
